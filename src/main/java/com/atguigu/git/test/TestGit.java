@@ -6,5 +6,6 @@ public class TestGit {
 
         System.out.println("hello! Git!");
         System.out.println("hello! Git!2");
+        System.out.println("hello! Git!2");
     }
 }
